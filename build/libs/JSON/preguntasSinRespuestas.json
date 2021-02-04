@@ -1,0 +1,83 @@
+{
+    "preguntas":{
+        "1":{
+            "text":"Si existe el “más alla”, ¿también hay un “más aquí”?"
+        },
+        "2":{
+            "text":"Si la piscina es honda, ¿el mar es Toyota?"
+        },
+        "3":{
+            "text":"¿Por qué cuando vamos a aparcar bajamos el volumen de la música?"
+        },
+        "4":{
+            "text":"¿Por qué no hay un sinónimo para la palabra sinónimo?"
+        },
+        "5":{
+            "text":"¿Por qué el Pato Donald tiene sobrinos sin tener hermanos?"
+        },
+        "6":{
+            "text":"¿Por qué Maggie no crece en Los Simpson?"
+        },
+        "7":{
+            "text":"Si una palabra estuviese mal escrita en el diccionario, ¿cómo lo sabríamos?"
+        },
+        "8":{
+            "text":"¿Por qué no podemos estornudar con los ojos abiertos?"
+        },
+        "9":{
+            "text":"Si un abogado enloquece, ¿pierde el juicio?"
+        },
+        "10":{
+            "text":"Si me conecto al WiFi de la Iglesia, ¿estoy recibiendo una señal de Dios?"
+        },
+        "11":{
+            "text":"¿No es mejor pájaro en mano que ciento volando?"
+        },
+        "12":{
+            "text":"Si Dios es todopoderoso, ¿podría crear otro Dios?"
+        },
+        "13":{
+            "text":"¿Hasta dónde se lava la cara un calvo?"
+        },
+        "14":{
+            "text":"¿Por qué cuanto más prisa tienes, más lento camino la anciana de delante?"
+        },
+        "15":{
+            "text":"¿Quién fue el genio que inventó los pantalones acampanados?"
+        },
+        "16":{
+            "text":"¿Cómo supieron los inventores del reloj a qué hora ponerlo?"
+        },
+        "18":{
+            "text":"¿Por qué los kamikazes llevaban casco?"
+        },
+        "19":{
+            "text":"¿Por qué la palabra ‘abreviación’ es tan larga?"
+        },
+        "20":{
+            "text":"¿Por qué era tan grande el campo de Oliver y Benji (Supercampeones)?"
+        },
+        "21":{
+            "text":"¿Por qué no fue Frodo montado en águila hasta el monte del destino?"
+        },
+        "22":{
+            "text":"¿Pluto es una especie de perro naranja?"
+        },
+        "23":{
+            "text":"¿Un café que estuvo en la cárcel es un expresso?"
+        },
+        "24":{
+            "text":"¿Por qué la comunión se hace vestido de marinero?"
+        },
+        "25":{
+            "text":"¿Por qué Tarzán tiene melena pero en cambio siempre va afeitado?"
+        },
+        "26":{
+            "text":"Cuando sale una nueva marca de comida de perro con mejor sabor, ¿quién la prueba?"
+        },
+        "27":{
+            "text":"Si contáramos un chiste muy bueno, ¿podríamos hacer reír a Dios?"
+        }
+    },
+    "answers":false
+}

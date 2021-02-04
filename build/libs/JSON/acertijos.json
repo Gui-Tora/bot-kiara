@@ -1,0 +1,77 @@
+{
+    "acertijos":{
+        "1":{
+            "riddle":"Tengo patas y no ando, soy plana y no canto, se apoyan para escribir y no te puedo hacer reír.",
+            "answer":"La mesa"
+        },
+        "2":{
+            "riddle":"No es reloj, pero hace TIC TAC, no usa pilas pero no para de andar...",
+            "answer":"El corazon"
+        },
+        "3":{
+            "riddle":"Tengo 87 años y me llamo señora, me gusta el helado y siempre miro la hora.",
+            "answer":"La abuela"
+        },
+        "4":{
+            "riddle":"Pelo arriba, pelo abajo y al medio un tajo ¿qué es?",
+            "answer":"El ojo"
+        },
+        "5":{
+            "riddle":"Una señorita muy señoreada, siempre va en coche y siempre va mojada.",
+            "answer":"Lengua"
+        },
+        "6":{
+            "riddle":"Señores, de Francia vengo, que mi padre es cantador, traigo los hábitos blancos y amarillo el corazón.",
+            "answer":"El huevo"
+        },
+        "7":{
+            "riddle":"Crió Dios dos avecitas en el vivir tan conformes, que la que come no bebe, y la que bebe no come.",
+            "answer":"El mosquito y el coco"
+        },
+        "8":{
+            "riddle":"¿A las cuantas vueltas se echa un burro?",
+            "answer":"A la última"
+        },
+        "9":{
+            "riddle":"Una señora con muchas basquiñas y que se pone la peor encima.   ",
+            "answer":"La cebolla"
+        },
+        "10":{
+            "riddle":"Tamaño como un ochavo pichilín, y tiene un agujero en un cuadril.",
+            "answer":"El altramuz"
+        },
+        "11":{
+            "riddle":"Pozo hondo, soga larga, y como no se doble no alcanza.",
+            "answer":"La boca y el brazo"
+        },
+        "12":{
+            "riddle":"Dos hermanas, mentira no es, la una es mi tía, la otra no lo es.",
+            "answer":"Es su madre"
+        },
+        "13":{
+            "riddle":"Más de cien damas hermosas vi en un instante nacer, encendidas como rosas, y en seguida fenecer.",
+            "answer":"Las chispas"
+        },
+        "14":{
+            "riddle":"Muchas lamparitas muy bien colgaditas, siempre encandiladas, y nadie las atiza.",
+            "answer":"Las estrellas"
+        },
+        "15":{
+            "riddle":"Yo estoy hecho mil pedazos, tengo una mano y un brazo en la mitad de mi cuerpo.",
+            "answer":"El reloj"
+        },
+        "16":{
+            "riddle":"Si tú me quieres comer, me verás marrón peludo y no me podrás romper porque por fuera soy duro.",
+            "answer":"El coco"
+        },
+        "18":{
+            "riddle":"Pingue, pingue, está pingando; mango, mango, lo está mirando; si pingue, pingue, cayera, mango, mango, lo cogiera.",
+            "answer":"La morcilla y el gato."
+        },
+        "19":{
+            "riddle":"Tengo lo que Dios no tiene, veo lo que Dios no ve; ¿qué es?",
+            "answer":"Hermanos"
+        }
+    },
+    "answers":true
+}
